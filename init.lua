@@ -1,0 +1,18 @@
+appname="ZantiRS扩展安装"
+appver="1.3.5"
+appcode="1"
+appsdk="15"
+path_pattern=""
+packagename="com.installexpand.zanti"
+theme="Theme"
+app_key=""
+app_channel=""
+developer="ShiJiong"
+description="ZantiRS扩展安装"
+debugmode=true
+user_permission={
+  "ACCESS_NETWORK_STATE",
+  "INTERNET",
+  "READ_EXTERNAL_STORAGE",
+  "WRITE_EXTERNAL_STORAGE"
+}
